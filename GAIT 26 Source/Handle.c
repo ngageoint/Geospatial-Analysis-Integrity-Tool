@@ -12,8 +12,6 @@ Neither NGA or IDA are liable for any claims, losses, or damages arising from or
 The user's sole and exclusive remedy is to stop using the software.
 ************/
 /* Handle.c: Methods for the Handle widget. */
-/* Copyright © 1994 Torgeir Veimo. */
-/* See the README file for copyright details. */
 
 #include <Xm/XmP.h>
 #include <Xm/ArrowB.h>
